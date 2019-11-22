@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573923560 source:c:\users\dragos\desktop\tema 3 sda\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

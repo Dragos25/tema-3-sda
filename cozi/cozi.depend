@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574096729 source:c:\users\dragos\desktop\tema 3 sda\cozi\main.cpp
+	<iostream>
+	<fstream>
+
